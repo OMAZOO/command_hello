@@ -1,5 +1,4 @@
-//For Command line git tutorial
-//Local repository modification
+//git tutorial
 print("Tell Your World")
 print("Hello World")
 print("우리리리리릴")
